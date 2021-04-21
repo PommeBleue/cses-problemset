@@ -12,7 +12,7 @@ sinon on incrémente `k` et on affecte `max{k, m}` à `m`.
 ## Résultats en console 
 En se positionnant dans le dossier `cses-problemset/`, on exécute ce qui suit :
 ```shell script
-$ ./run.command repetitions
+$ ./run.sh repetitions
 ATTCGGGA
 3
 ```

@@ -25,7 +25,7 @@ let rec somme = function
 ## Résultats en console 
 En se positionnant dans le dossier `cses-problemset/`, on exécute ce qui suit :
 ```shell script
-$ ./run.command missing_number
+$ ./run.sh missing_number
 5
 2
 3

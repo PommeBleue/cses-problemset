@@ -14,10 +14,10 @@ il suffit de découper la liste des entiers en deux, et d'intercaler les éléme
 ## Résultats en console 
 En se positionnant dans le dossier `cses-problemset/`, on exécute ce qui suit :
 ```shell script
-$ ./run.command permutations
+$ ./run.sh permutations
 3
 NO SOLUTION
-$ ./run.command permutations
+$ ./run.sh permutations
 5 
 3 1 4 2 5
 ```

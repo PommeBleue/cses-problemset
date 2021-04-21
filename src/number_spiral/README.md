@@ -27,14 +27,13 @@ Avec `a_1 = 1`. D'où, pour tout `n` dans `1,...,+\infty`, on a
 où `a_n` est l'élément `(n, n)` de la spirale. Ainsi, il est assez facile de retrouver l'élément à la position `(y, x)` à partir de `a_max(y ,x)`.
 
 
-## Résultats en console
 ## Résultats en console 
 En se positionnant dans le dossier `cses-problemset/`, on exécute ce qui suit :
 ```shell script
-$ ./run.command missing_number
+$ ./run.sh missing_number
 1
 5
 5
 25
 ```
-La dernière ligne représentant l'élément à la position `(y, x)`.\
+La dernière ligne représentant l'élément à la position `(y, x)`.

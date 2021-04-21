@@ -17,7 +17,7 @@ Si `x > y`, on rajoute `x - y` au résultat, et on remplace `y` par `x` dans `li
  ## Résultats en console 
  En se positionnant dans le dossier `cses-problemset/`, on exécute ce qui suit :
  ```shell script
- $ ./run.command increasing_array
+ $ ./run.sh increasing_array
  5
  3
  2

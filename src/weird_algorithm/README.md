@@ -19,7 +19,7 @@ telle quelle.
 ## Résultats en console 
 En se positionnant dans le dossier `cses-problemset/`, on exécute ce qui suit :
 ```shell script
-$ ./run.command weird_algorithm
+$ ./run.sh weird_algorithm
 3
 3 10 5 16 8 4 2 1
 ```
